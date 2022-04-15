@@ -1,0 +1,95 @@
+h1{
+  color:red;
+  text-align:center;
+}
+img{
+  border-radius: 50%;
+  width: 100px;
+  position: relative;
+}
+p{
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+body{
+  background-image:url(https://mfiles.alphacoders.com/968/968741.jpg);
+  background-size: 720px 1520px;
+}
+.url{
+  display:inline-block;
+  vertical-align: 50px;
+  position: relative;
+  left: -70px;
+}
+.ur{
+  display:inline-block;
+  vertical-align: 50px;
+  position: relative;
+  left: -120px;
+}
+.u{
+  display:inline-block;
+  vertical-align: 50px;
+  position: relative;
+  left: -55px;
+}
+.l{
+  display:inline-block;
+  vertical-align: 50px;
+  position: relative;
+  left: -70px;
+}
+.lu{
+  display:inline-block;
+  vertical-align: 50px;
+  position: relative;
+  left: -70px;
+}
+.lru{
+  display:inline-block;
+  vertical-align: 50px;
+  position: relative;
+  left: -115px;
+}
+.urllru{
+  display:inline-block;
+  vertical-align: 50px;
+  position: relative;
+  left: -60px;
+}
+.p{
+  position:relative;
+  left:100px;
+  top:-60px;
+}
+.pa{
+  position: relative;
+  left:100px;
+  top:-60px;
+}
+.par{
+  position:relative;
+  left:100px;
+  top:-60px;
+}
+.para{
+  position:relative;
+  left:100px;
+  top:-60px;
+}
+.parag{
+  position:relative;
+  left:100px;
+  top:-60px;
+}
+.paragr{
+  position:relative;
+  left:100px;
+  top:-60px;
+}
+.paragra{
+  position:relative;
+  left:100px;
+  top:-60px;
+}
